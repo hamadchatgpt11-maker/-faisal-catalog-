@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "no": 1,
+      "ur": "انوار البلالین پښتو شرح جلالین زرد او سفید",
+      "en": "Anwar al-Balalain: Pashto Commentary on Tafsir al-Jalalayn (yellow & white paper)",
+      "rom": "Anwar-ul-Balalain Pashto Sharh Jalalain Zard o Safaid",
+      "volumes": 4
+    },
+    {
+      "no": 2,
+      "ur": "تسہیل الہدایہ بیوع، زرد کاغذ",
+      "en": "Tasheel al-Hidaya: Sales (Buyu), yellow paper",
+      "rom": "Tasheel-ul-Hidaya Buyu, Zard Kaghaz",
+      "volumes": 2
+    },
+    {
+      "no": 3,
+      "ur": "تسہیل الہدایہ شرح ہدایہ زرد",
+      "en": "Tasheel al-Hidaya, Commentary on Hidaya (yellow paper)",
+      "rom": "Tasheel-ul-Hidaya Sharh Hidaya Zard",
+      "volumes": 8
+    },
+    {
+      "no": 4,
+      "ur": "تسہیل الہدایہ شرح ہدایہ سفید",
+      "en": "Tasheel al-Hidaya, Commentary on Hidaya (white paper)",
+      "rom": "Tasheel-ul-Hidaya Sharh Hidaya Safaid",
+      "volumes": 8
+    },
+    {
+      "no": 5,
+      "ur": "تسہیل الہدایہ شرح ہدایہ فارسی",
+      "en": "Tasheel al-Hidaya, Commentary on Hidaya (Persian)",
+      "rom": "Tasheel-ul-Hidaya Sharh Hidaya Farsi",
+      "volumes": 8
+    },
+    {
+      "no": 6,
+      "ur": "تسہیل الہدایہ شفعہ، زرد کاغذ",
+      "en": "Tasheel al-Hidaya: Pre-emption (Shufa), yellow paper",
+      "rom": "Tasheel-ul-Hidaya Shufa, Zard Kaghaz",
+      "volumes": 2
+    },
+    {
+      "no": 7,
+      "ur": "تسہیل الہدایہ صلاۃ، زرد کاغذ",
+      "en": "Tasheel al-Hidaya: Prayer (Salah), yellow paper",
+      "rom": "Tasheel-ul-Hidaya Salah, Zard Kaghaz",
+      "volumes": 2
+    },
+    {
+      "no": 8,
+      "ur": "تسہیل الہدایہ نکاح، زرد کاغذ",
+      "en": "Tasheel al-Hidaya: Marriage (Nikah), yellow paper",
+      "rom": "Tasheel-ul-Hidaya Nikah, Zard Kaghaz",
+      "volumes": 2
+    },
+    {
+      "no": 9,
+      "ur": "تسہیل مرقاۃ المفاتیح شرح مشکاۃ المصابیح",
+      "en": "Tasheel Mirqat al-Mafatih: Commentary on Mishkat al-Masabih",
+      "rom": "Tasheel Mirqat-ul-Mafateeh Sharh Mishkat-ul-Masabeeh",
+      "volumes": 1
+    },
+    {
+      "no": 10,
+      "ur": "تسہیلات شرح مشکاۃ پښتو زرد/سفید",
+      "en": "Tasheelat: Pashto Commentary on Mishkat (yellow/white paper)",
+      "rom": "Tasheelat Sharh Mishkat Pashto Zard/Safaid",
+      "volumes": 12
+    },
+    {
+      "no": 11,
+      "ur": "تفسیر خیر کثیر ترجمہ تفسیر ابن کثیر زرد کاغذ",
+      "en": "Tafseer Khair Kaseer: Urdu Translation of Tafsir Ibn Kathir (yellow paper)",
+      "rom": "Tafseer Khair Kaseer Tarjuma Tafseer Ibn Kaseer Zard Kaghaz",
+      "volumes": 6
+    },
+    {
+      "no": 12,
+      "ur": "تفسیر خیر کثیر ترجمہ تفسیر ابن کثیر سفید کاغذ",
+      "en": "Tafseer Khair Kaseer: Urdu Translation of Tafsir Ibn Kathir (white paper)",
+      "rom": "Tafseer Khair Kaseer Tarjuma Tafseer Ibn Kaseer Safaid Kaghaz",
+      "volumes": 6
+    },
+    {
+      "no": 13,
+      "ur": "دورہ حدیث د اختلافی مسئلو او مشکلو احادیثو آسان حل",
+      "en": "Daura-e-Hadith: Easy Solutions to Disputed Issues and Difficult Hadiths",
+      "rom": "Daura-e-Hadees: Ikhtilafi Masailo aw Mushkilo Ahadeeso Aasan Hal",
+      "volumes": 1
+    },
+    {
+      "no": 14,
+      "ur": "د نوې مسئلو فتاوی",
+      "en": "Fatawa on New Issues",
+      "rom": "Da Nawe Masailo Fatawa",
+      "volumes": 1
+    },
+    {
+      "no": 15,
+      "ur": "ریاض الصالحین پښتو مترجم",
+      "en": "Riyad us-Saliheen (Pashto translation)",
+      "rom": "Riyaz-us-Saliheen Pashto Mutarjam",
+      "volumes": 2
+    },
+    {
+      "no": 16,
+      "ur": "سراج الطالبین اردو",
+      "en": "Siraj al-Talibeen (Urdu)",
+      "rom": "Siraj-ut-Talibeen Urdu",
+      "volumes": 1
+    },
+    {
+      "no": 17,
+      "ur": "سراج الطالبین شرح زاد الطالبین پښتو",
+      "en": "Siraj al-Talibeen: Pashto Commentary on Zad al-Talibeen",
+      "rom": "Siraj-ut-Talibeen Sharh Zad-ut-Talibeen Pashto",
+      "volumes": 1
+    },
+    {
+      "no": 18,
+      "ur": "سراج المنتہی شرح جامع الترمذی زیر او سپین",
+      "en": "Siraj al-Muntaha: Commentary on Jami at-Tirmidhi (yellow & white)",
+      "rom": "Siraj-ul-Muntaha Sharh Jami-ut-Tirmizi Zer aw Speen",
+      "volumes": 13
+    },
+    {
+      "no": 19,
+      "ur": "سیرت خاتم الانبیاء پښتو",
+      "en": "Seerat Khatam al-Anbiya (Pashto)",
+      "rom": "Seerat Khatam-ul-Anbiya Pashto",
+      "volumes": 1
+    },
+    {
+      "no": 20,
+      "ur": "صفوۃ التفاسیر، عربی سفید کاغذ",
+      "en": "Safwat al-Tafaseer (Arabic, white paper)",
+      "rom": "Safwat-ut-Tafaseer Arabic Safaid Kaghaz",
+      "volumes": 1
+    },
+    {
+      "no": 21,
+      "ur": "فتاوی شامی زرد کاغذ",
+      "en": "Fatawa Shami (yellow paper)",
+      "rom": "Fatawa Shami Zard Kaghaz",
+      "volumes": 12
+    },
+    {
+      "no": 22,
+      "ur": "فتاوی عالمگیری مع الخصائص الجدیدہ، عربی",
+      "en": "Fatawa Alamgiri with al-Khasais al-Jadida (Arabic)",
+      "rom": "Fatawa Alamgiri ma al-Khasais-ul-Jadeeda Arabic",
+      "volumes": 12
+    },
+    {
+      "no": 23,
+      "ur": "فقہی عجائبات",
+      "en": "Fiqhi Ajaibat (Wonders of Fiqh)",
+      "rom": "Fiqhi Ajaibat",
+      "volumes": 1
+    },
+    {
+      "no": 24,
+      "ur": "فہم القرآن (اورنج) ټکي په ټکي او روانہ ترجمہ",
+      "en": "Fahm al-Quran (orange): word-by-word and fluent translation",
+      "rom": "Fahm-ul-Quran (Orange) Tuki pa Tuki aw Rawana Tarjuma",
+      "volumes": 1
+    },
+    {
+      "no": 25,
+      "ur": "فہم القرآن مترجم قرآن (سپین ہاف وائٹ کاغذ)",
+      "en": "Fahm al-Quran with translation (half-white paper)",
+      "rom": "Fahm-ul-Quran Mutarjam Quran (Speen Half White Kaghaz)",
+      "volumes": 1
+    },
+    {
+      "no": 26,
+      "ur": "فوز المبتدی بشرح مختصر القدوری پښتو",
+      "en": "Fawz al-Mubtadi: Pashto Commentary on Mukhtasar al-Quduri",
+      "rom": "Fawz-ul-Mubtadi bi-Sharh Mukhtasar-ul-Quduri Pashto",
+      "volumes": 3
+    },
+    {
+      "no": 27,
+      "ur": "معارف القرآن پښتو مع آسان ترجمہ قرآن زیر",
+      "en": "Maarif al-Quran (Pashto) with easy Quran translation (yellow)",
+      "rom": "Maarif-ul-Quran Pashto ma Aasan Tarjuma Quran Zer",
+      "volumes": 11
+    },
+    {
+      "no": 28,
+      "ur": "معارف القرآن پښتو مع آسان ترجمہ قرآن سفید",
+      "en": "Maarif al-Quran (Pashto) with easy Quran translation (white)",
+      "rom": "Maarif-ul-Quran Pashto ma Aasan Tarjuma Quran Safaid",
+      "volumes": 11
+    },
+    {
+      "no": 29,
+      "ur": "معلم الحجاج پښتو",
+      "en": "Muallim al-Hujjaj (Pashto)",
+      "rom": "Muallim-ul-Hujjaj Pashto",
+      "volumes": 1
+    },
+    {
+      "no": 30,
+      "ur": "منہاج الصالحین پښتو",
+      "en": "Minhaj as-Saliheen (Pashto)",
+      "rom": "Minhaj-us-Saliheen Pashto",
+      "volumes": 5
+    },
+    {
+      "no": 31,
+      "ur": "کشف الباری جلد 16 تا 22",
+      "en": "Kashf al-Bari, volumes 16 to 22",
+      "rom": "Kashf-ul-Bari Jild 16 ta 22",
+      "volumes": 7,
+      "firstVolume": 16
+    },
+    {
+      "no": 32,
+      "ur": "کشف الباری جلد 16 تا 24",
+      "en": "Kashf al-Bari, volumes 16 to 24",
+      "rom": "Kashf-ul-Bari Jild 16 ta 24",
+      "volumes": 9,
+      "firstVolume": 16
+    },
+    {
+      "no": 33,
+      "ur": "کشف الباری مکمل",
+      "en": "Kashf al-Bari (complete)",
+      "rom": "Kashf-ul-Bari Mukammal",
+      "volumes": 24,
+      "fileIds": {
+        "1": "12D37DlYBKeg4nhwiN_pVuIcWp_kWobTo"
+      }
+    }
+  ]
+}
