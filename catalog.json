@@ -3,14 +3,14 @@
   "books": [
     {
       "no": 1,
-      "ur": " انوار الہلالین پښتو شرح جلالین   ",
+      "ur": " انوار الہلالین پشتو شرح جلالین   ",
       "en": "Anwar al-Halalain: Pashto Commentary on Tafsir al-Jalalayn ",
       "rom": "Anwar-ul-Halalain Pashto Sharh Jalalain ",
       "volumes": 4
     },
     {
       "no": 2,
-      "ur": "تسہیل الہدایہ شرح ہدایہ پښتو",
+      "ur": "تسہیل الہدایہ شرح ہدایہ پشتو",
       "en": "Tasheel al-Hidaya, Commentary on Hidaya ",
       "rom": "Tasheel-ul-Hidaya Sharh Hidaya ",
       "volumes": 8
@@ -31,35 +31,35 @@
     },
     {
       "no": 5,
-      "ur": "تسہیلات شرح مشکاۃ پښتو",
+      "ur": "تسہیلات شرح مشکاۃ پشتو",
       "en": "Tasheelat: Pashto Commentary on Mishkat ",
       "rom": "Tasheelat Sharh Mishkat Pashto ",
       "volumes": 12
     },
     {
       "no": 6,
-      "ur": "تفسیر خیر کثیر ترجمہ تفسیر ابن کثیر پښتو  ",
+      "ur": "تفسیر خیر کثیر ترجمہ تفسیر ابن کثیر پشتو  ",
       "en": "Tafseer Khair Kaseer: Urdu Translation of Tafsir Ibn Kathir ",
       "rom": "Tafseer Khair Kaseer Tarjuma Tafseer Ibn Kaseer ",
       "volumes": 6
     },
     {
       "no": 7,
-      "ur": "دورہ حدیث د اختلافی مسئلو او مشکلو احادیثو آسان حل پښتو",
+      "ur": "دورہ حدیث د اختلافی مسئلو او مشکلو احادیثو آسان حل پشتو",
       "en": "Daura-e-Hadith: Easy Solutions to Disputed Issues and Difficult Hadiths",
       "rom": "Daura-e-Hadees: Ikhtilafi Masailo aw Mushkilo Ahadeeso Aasan Hal",
       "volumes": 1
     },
     {
       "no": 8,
-      "ur": "د نوې مسئلو فتاوی پښتو",
+      "ur": "د نوې مسئلو فتاوی پشتو",
       "en": "Fatawa on New Issues",
       "rom": "Da Nawe Masailo Fatawa",
       "volumes": 1
     },
     {
       "no": 9,
-      "ur": "ریاض الصالحین پښتو مترجم",
+      "ur": "ریاض الصالحین پشتو مترجم",
       "en": "Riyad us-Saliheen (Pashto translation)",
       "rom": "Riyaz-us-Saliheen Pashto Mutarjam",
       "volumes": 2
@@ -73,14 +73,14 @@
     },
     {
       "no": 11,
-      "ur": "سراج الطالبین شرح زاد الطالبین پښتو",
+      "ur": "سراج الطالبین شرح زاد الطالبین پشتو",
       "en": "Siraj al-Talibeen: Pashto Commentary on Zad al-Talibeen",
       "rom": "Siraj-ut-Talibeen Sharh Zad-ut-Talibeen Pashto",
       "volumes": 1
     },
     {
       "no": 12,
-      "ur": "سراج المنتہی شرح جامع الترمذی پښتو",
+      "ur": "سراج المنتہی شرح جامع الترمذی پشتو",
       "en": "Siraj al-Muntaha: Commentary on Jami at-Tirmidhi pashto",
       "rom": "Siraj-ul-Muntaha Sharh Jami-ut-Tirmizi pashto",
       "volumes": 13,
@@ -111,21 +111,21 @@
     },
     {
       "no": 16,
-      "ur": "فوز المبتدی بشرح مختصر القدوری پښتو",
+      "ur": "فوز المبتدی بشرح مختصر القدوری پشتو",
       "en": "Fawz al-Mubtadi: Pashto Commentary on Mukhtasar al-Quduri",
       "rom": "Fawz-ul-Mubtadi bi-Sharh Mukhtasar-ul-Quduri Pashto",
       "volumes": 3
     },
     {
       "no": 17,
-      "ur": "معارف القرآن پښتو مع آسان ترجمہ قرآن ",
+      "ur": "معارف القرآن پشتو مع آسان ترجمہ قرآن ",
       "en": "Maarif al-Quran (Pashto) with easy Quran translation ",
       "rom": "Maarif-ul-Quran Pashto ma Aasan Tarjuma Quran ",
       "volumes": 11
     },
     {
       "no": 18,
-      "ur": "منہاج الصالحین پښتو",
+      "ur": "منہاج الصالحین پشتو",
       "en": "Minhaj as-Saliheen (Pashto)",
       "rom": "Minhaj-us-Saliheen Pashto",
       "volumes": 5
