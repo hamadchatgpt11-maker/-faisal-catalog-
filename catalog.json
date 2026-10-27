@@ -109,13 +109,14 @@
     },
     {
       "no": 14,
-      "ur": "فقہی عجائبات",
-      "en": "Fiqhi Ajaibat (Wonders of Fiqh)",
-      "rom": "Fiqhi Ajaibat",
+      "ur": "فقہی عجائبات پشتو",
+      "en": "Fiqhi Ajaibat (Wonders of Fiqh) Pashto",
+      "rom": "Fiqhi Ajaibat Pashto",
       "volumes": 1,
       "fileIds": {
         "1": "1qUWeAbjBPhfscNZ-Myi6raIE_7JdcIPy"
-      }
+      },
+      "lang": "ps"
     },
     {
       "no": 15,
