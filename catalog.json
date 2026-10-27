@@ -116,10 +116,10 @@
       "fileIds": {
         "1": "1qUWeAbjBPhfscNZ-Myi6raIE_7JdcIPy"
       },
-      "fileUrls": {
+      "lang": "ps",
+      "urls": {
         "1": "https://github.com/hamad652/faisal-books/releases/download/v1/Feqehi_Lataif_sitting.enc"
-      },
-      "lang": "ps"
+      }
     },
     {
       "no": 15,
@@ -158,7 +158,6 @@
       "fileIds": {
         "1": "12D37DlYBKeg4nhwiN_pVuIcWp_kWobTo"
       }
-    },
     }
   ]
 }
