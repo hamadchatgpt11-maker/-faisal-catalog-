@@ -6,7 +6,12 @@
       "ur": " انوار الہلالین پشتو شرح جلالین   ",
       "en": "Anwar al-Halalain: Pashto Commentary on Tafsir al-Jalalayn ",
       "rom": "Anwar-ul-Halalain Pashto Sharh Jalalain ",
-      "volumes": 4
+      "volumes": 4,
+      "urls": {
+        "1": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/anwar.ul.hilalain.jild.1.enc",
+        "3": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/anwar.ul.hilalain.jild.3.enc",
+        "4": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/anwar.ul.hilalain.jild._4.enc"
+      }
     },
     {
       "no": 2,
