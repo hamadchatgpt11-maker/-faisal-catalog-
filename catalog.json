@@ -163,6 +163,28 @@
       "fileIds": {
         "1": "12D37DlYBKeg4nhwiN_pVuIcWp_kWobTo"
       }
+    },
+    {
+      "no": 20,
+      "ur": "تسہیل الہدایہ جدید",
+      "en": "Tasheel al-Hidaya (New Edition)",
+      "rom": "Tasheel-ul-Hidaya Jadeed",
+      "volumes": 13,
+      "lang": "ps",
+      "urls": {
+        "1": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.1_",
+        "2": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.2_",
+        "3": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.3_",
+        "4": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.4_",
+        "5": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.5_",
+        "7": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.7_",
+        "8": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.8_",
+        "9": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.9_",
+        "10": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.10",
+        "11": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.11_",
+        "12": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.12_",
+        "13": "https://github.com/hamadchatgpt11-maker/-faisal-catalog-/releases/download/v1/Tasheelul.hidaya.jadeed.jild.13_"
+      }
     }
   ]
 }
